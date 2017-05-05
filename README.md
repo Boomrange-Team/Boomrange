@@ -1,4 +1,4 @@
-# Group Butler
+# Boomrange
 
 ## Short introduction
 
@@ -8,13 +8,13 @@ Group Butler was born as an [otouto](https://otou.to) [v3.1](https://github.com/
 
 #### Group Butler on Telegram:
 
-- [`@GroupButler_bot`](https://telegram.me/GroupButler_Bot)
+- [`@BoomrangeTG_Bot`](https://telegram.me/BoomrangeTG_Bot)
     - **_branch_**: `master`
-    - **_channel_**: [`@GroupButler_ch`](https://telegram.me/groupbutler_ch).
+    - **_channel_**: [`@Boomrange_Team`](https://telegram.me/Boomrange_Team).
 
-- [`@GBReborn_bot`](https://telegram.me/GBReborn_bot)
+- [`@BoomrangeTG_Bot`](https://telegram.me/BoomrangeTG_Bot)
     - **_branch_**: `beta`
-    - **_channel_**: [`@GroupButler_beta`](https://telegram.me/GroupButler_beta).
+    - **_channel_**: [`@Helper_Boomrange`](https://telegram.me/Helper_Boomrange).
 
 * * *
 
@@ -153,28 +153,8 @@ After add your new locale in the file `config.lua`.
 
 ## Pull requests
 
-If you are going to open a pull request, please use the [`beta` branch](https://github.com/RememberTheAir/GroupButler/tree/beta) as destination branch.
+If you are going to open a pull request, please use the [`beta` branch](https://github.com/Boomrange-Team/Boomrange) as destination branch.
 
 Pull requests in the `master` branch won't be considered, unless they are intended to solve a critical problem.
 
 * * *
-
-## Credits
-
-[Topkecleon](https://github.com/topkecleon), for the original [otouto](https://github.com/topkecleon/otouto)
-
-[Iman Daneshi](https://github.com/imandaneshi) and [Tiago Danin](https://github.com/TiagoDanin), for [Jack-telegram-bot](https://github.com/Imandaneshi/jack-telegram-bot)
-
-[Cosmonawt](https://github.com/cosmonawt), for his [Lua library](https://github.com/cosmonawt/lua-telegram-bot) for the Bot API
-
-[Yago Pérez](https://github.com/yagop) for his [telegram-bot](https://github.com/yagop/telegram-bot)
-
-The [Werewolf](https://github.com/parabola949/Werewolf) guys, for aiding the spread of the bot
-
-Lucas Montuano, for helping me a lot in the debugging of the bot
-
-All the Admins of our [discussion groups](https://telegram.me/gbgroups) about Group Butler
-
-All the people who reported bugs and suggested new stuffs
-
-Le Laide
